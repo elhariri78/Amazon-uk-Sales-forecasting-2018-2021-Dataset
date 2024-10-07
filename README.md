@@ -17,3 +17,5 @@ This repository provides a dataset containing Amazon UK sales data spanning from
   - Seasonal events (e.g., Christmas, Black Friday)
   - Date of sale
   - Unit price
+
+[Amazon UK Sales Forecasting 2018-2021 Dataset on Kaggle](https://www.kaggle.com/datasets/elmuatazelhariri/amazon-uk-sales-forecasting-2018-2021)
